@@ -277,8 +277,7 @@ northwind-traders-dashboard/
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/your-username/northwind-traders-dashboard.git
-   cd northwind-traders-dashboard
+   git clone https://github.com/M1deTheAnalyst/Northwind-Traders-Analytics.git
    ```
 
 2. **Open the dashboard**
