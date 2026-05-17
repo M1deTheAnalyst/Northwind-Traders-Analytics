@@ -133,7 +133,9 @@ The **Northwind Traders Dashboard** is a Power BI report built to monitor sales 
 
 > *Tracks regional sales, operational efficiency, and employee performance.*
 
-<img width="1569" height="866" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/e493191b-4a47-4d78-91d9-2a0d36218d02" />
+<img width="1567" height="863" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/bb6423bd-cc9b-44a2-a3cb-7445fecace38" />
+<img width="1571" height="864" alt="Sales   Revenue Overview" src="https://github.com/user-attachments/assets/afdccb98-22f5-40ae-a910-77b76d946bcb" />
+<img width="1567" height="865" alt="Product   Category Intelligence Dashboard" src="https://github.com/user-attachments/assets/d289ce1f-2bec-4d9b-82ae-71d0c3ec6a2d" />
 
 #### KPI Cards
 
@@ -166,13 +168,11 @@ The **Northwind Traders Dashboard** is a Power BI report built to monitor sales 
 - Federal Shipping leads at **96.47%**, followed by Speedy Express **(95.18%)** and United Package **(95.09%)**
 - Identifies the most reliable logistics partner for routing decisions
 
-**Total Revenue and Total Orders by Country — Combo Chart** *(Drill down to city)*
-- Revenue bars per country overlaid with total orders trend line
-- USA ($0.25M) and Germany ($0.23M) are the top two markets by revenue
-- Drill-down surfaces city-level detail for targeted account planning
+**Total Revenue and Total Orders by Country — Treemap Chart** *(Drill down to city,category, product, company )*
+- Revenue bars per country, with root connections across cities and product hierachies  
 
 **Total Revenue by Employee Name — Bar Chart**
-- Horizontal bar chart ranking all employees by revenue generated
+- Horizontal bar chart ranking top 5 employees by revenue generated
 - Margaret Peacock leads at **18.40%**, followed by Janet Leverling **(16.02%)** and Nancy Davolio **(15.18%)**
 - Supports performance reviews, quota planning, and incentive design
 
