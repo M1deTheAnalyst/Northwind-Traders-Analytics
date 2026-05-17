@@ -133,7 +133,7 @@ The **Northwind Traders Dashboard** is a Power BI report built to monitor sales 
 
 > *Tracks regional sales, operational efficiency, and employee performance.*
 
-<img width="1567" height="863" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/2c801578-fafb-458f-8a1b-4b63c67056f7" />
+<img width="1569" height="863" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/8c46f28d-747e-4429-baff-4fd128f81acf" />
 
 #### KPI Cards
 
@@ -156,10 +156,10 @@ The **Northwind Traders Dashboard** is a Power BI report built to monitor sales 
 
 #### Visuals
 
-**Avg Delivery Delay and On Time Delivery % by Month — Combo Chart** *(Drill down to quarter and year)*
-- Bars show average delivery delay per month; dashed line tracks on-time delivery percentage
-- MoM % change labels on each bar; supports identifying seasonal shipping degradation
-- October shows the highest delivery delay spike (▲13.7% MoM)
+**Avg Delivery Delay and On Time Delivery % by Quarter — Combo Chart** *(Drill down to year)*
+- Bars show average delivery delay per quarter; dashed line tracks on-time delivery percentage
+- QoQ% change labels on each bar; supports identifying seasonal shipping degradation
+- Q3 shows the highest delivery delay spike also the lowest delivery rate (▲3.3% QoQ)
 
 **On Time Delivery % by Shipping Company — Bar Chart**
 - Compares on-time delivery rates across the three shippers
