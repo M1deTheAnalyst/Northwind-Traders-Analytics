@@ -133,7 +133,7 @@ The **Northwind Traders Dashboard** is a Power BI report built to monitor sales 
 
 > *Tracks regional sales, operational efficiency, and employee performance.*
 
-<img width="1569" height="863" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/8c46f28d-747e-4429-baff-4fd128f81acf" />
+<img width="1568" height="864" alt="Regional   Operational Performance Dashboard" src="https://github.com/user-attachments/assets/803f53fd-10b9-4211-9b13-137903347cf1" />
 
 #### KPI Cards
 
